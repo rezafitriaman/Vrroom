@@ -1,0 +1,17 @@
+$font-family : 'Lato', Calibri, Arial, sans-serif;
+$parafont : 'Roboto Slab', serif;
+
+
+h1,h2,h3 {
+	font-size: 30px!important;
+	font-family: $font-family!important;
+	font-weight: 700!important;
+}
+
+p {
+	font-family: $parafont!important;
+	font-weight: 400!important;
+}
+button {
+	font-family: $parafont!important;
+}

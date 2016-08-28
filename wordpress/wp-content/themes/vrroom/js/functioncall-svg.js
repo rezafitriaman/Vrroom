@@ -1,0 +1,1 @@
+jQuery(document).ready(function(c){[].slice.call(document.querySelectorAll(".si-icons-default > .si-icon")).forEach(function(c){new svgIcon(c,svgIconConfig)})});
